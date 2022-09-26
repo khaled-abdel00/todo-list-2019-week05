@@ -1,0 +1,6 @@
+*{
+    box-sizing: border-box;
+}
+.crossed{
+    text-decoration: line-through;
+}
